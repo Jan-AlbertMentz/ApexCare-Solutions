@@ -98,7 +98,7 @@ const sendMail = (email) => {
     from: 'senproject384@gmail.com',
     to: `${email}`,
     subject: 'Apexcare || Thank you!',
-    text: `Thank you for using our services.\n\nPlease use the following link to leave a review or raise a ticket:\nhttp://localhost:5000/review?email=${encodeURIComponent(email)}`
+    text: `Thank you for using our services.\n\nPlease use the following link to leave a review or raise a ticket:\nhttps://apexcaresolutionscrmapp1-caxriv03.b4a.run//review?email=${encodeURIComponent(email)}`
   };
 
   transporter.sendMail(mailOptions, function (error, info) {
