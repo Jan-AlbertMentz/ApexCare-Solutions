@@ -1,0 +1,98 @@
+[
+  {
+    "contractId": "001",
+    "clientName": "Jeff",
+    "clientSurname": "Mentz",
+    "rating": "2",
+    "description": ";lll",
+    "fileComplaint": false
+  },
+  {
+    "contractId": "001",
+    "clientName": "Jeff",
+    "clientSurname": "Mentz",
+    "rating": "2",
+    "description": "ooo",
+    "fileComplaint": false
+  },
+  {
+    "contractId": "001",
+    "clientName": "Jeff",
+    "clientSurname": "Mentz",
+    "rating": "1",
+    "description": "ooo",
+    "fileComplaint": false
+  },
+  {
+    "contractName": "Contract 1",
+    "clientName": "Jan",
+    "clientSurname": "Mentz",
+    "rating": "3",
+    "description": "He was well manered",
+    "fileComplaint": false
+  },
+  {
+    "contractName": "Fill her up",
+    "clientName": "Jane",
+    "clientSurname": "Mentz",
+    "rating": "1",
+    "description": "He didnt",
+    "fileComplaint": true
+  },
+  {
+    "contractName": "Light Installation",
+    "clientName": "Pieter",
+    "clientSurname": "Kriel",
+    "rating": "5",
+    "description": "hhhh",
+    "fileComplaint": true
+  },
+  {
+    "contractName": "fix My Roof",
+    "clientName": "Jan",
+    "clientSurname": "Mentz",
+    "rating": "2",
+    "description": "vvv",
+    "fileComplaint": true
+  },
+  {
+    "contractName": "Light fix",
+    "clientName": "Pieter",
+    "clientSurname": "Kriel",
+    "rating": "1",
+    "description": "ll",
+    "fileComplaint": false
+  },
+  {
+    "contractName": "Light Installation",
+    "clientName": "Pieter",
+    "clientSurname": "Kriel",
+    "rating": "3",
+    "description": "ll",
+    "fileComplaint": true
+  },
+  {
+    "contractName": "Light fix",
+    "clientName": "Pieter",
+    "clientSurname": "Kriel",
+    "rating": "1",
+    "description": "hhh",
+    "fileComplaint": true
+  },
+  {
+    "contractName": "Light fix",
+    "clientName": "Pieter",
+    "clientSurname": "Kriel",
+    "rating": "1",
+    "description": "hhhh",
+    "fileComplaint": false
+  },
+  {
+    "contractName": "Light Installation",
+    "clientName": "Pieter",
+    "clientSurname": "Kriel",
+    "rating": "1",
+    "description": "hh",
+    "fileComplaint": false
+  }
+]
